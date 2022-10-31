@@ -18,7 +18,7 @@ Alla esimerkkikuva ohjelmasta ja sen ulkoasusta. Ohjelma toimii komentoriviltä 
 Ohjelma on kirjoitettu python ohjelmointikieltä käyttäen ja tallennettuna python-tiedostoon (merkitään .py päätteellä). Tällaisten tiedostojen suorittaminen on varsin helppoa, sillä siihen tarvitaan vain Python-ohjelma. Alla pikaiset ohjeet pythonin asennuksesta ja vianmääritysohjelman käynnistämisestä:
 
 1. Jos sinulla ei ole Python-ohjelmistoa asennettuna tietokoneellesi, käy lataamassa siitä käyttöjärjestelmällesi sopiva versio osoitteesta: https://www.python.org/downloads/.
-2. Lataa GitHub-repossani oleva python-tiedosto Verkkoyhteyden vianmääritysohjelma Windows 10 PC.py esimerkiksi firefox-selaimessa seuraavasti: valitse 'Raw'-painike -> Ctrl + A tai 'Valitse kaikki'-painikke -> liitä sisältö tekstinkäsittelyohjelmaan (muistioon tms.) ja anna sille nimi .py päätteellä -> suorita ohjelma kaksioisklikkaamalla tai kakkospainike -> Avaa sovelluksessa -> Python.
+2. Lataa GitHub-repossani oleva python-tiedosto Verkkoyhteyden vianmääritysohjelma Windows 10 PC.py esimerkiksi firefox-selaimessa seuraavasti: valitse 'Raw'-painike -> Ctrl + A tai 'Valitse kaikki'-painike -> liitä sisältö tekstinkäsittelyohjelmaan (muistioon tms.) ja anna sille nimi .py päätteellä -> suorita ohjelma kaksioisklikkaamalla tai kakkospainike -> Avaa sovelluksessa -> Python.
 
 
 ### Ohjelman käyttöohjeet
