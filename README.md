@@ -10,7 +10,7 @@ Ohjelma on suunniteltu ainoastaan Windows 10 PC:n verkkoyhteyteen liittyviin ong
 
 Alla esimerkkikuva ohjelmasta ja sen ulkoasusta. Ohjelma toimii komentoriviltä ja siinä on käytetty yksinkertaista ASCII-taidetta. 
 
-![Ohjelman aloituskuva](https://github.com/HeikkiGithub/Harjoituskansio/blob/b9c8daa2484201c2cd631c98d90209ad52642bf1/kuvat/ohjelma_tervetuloa.png)
+![Ohjelman aloituskuva](https://github.com/HeikkiGithub/Troubleshooting-Win10-network/blob/main/kuvat/ohjelma_tervetuloa.png)
 
 
 ### Ohjelman saattaminen toimintakuntoon
