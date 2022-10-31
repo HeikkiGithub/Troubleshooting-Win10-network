@@ -39,7 +39,7 @@ Ohjelma toimii seuraavasti:
 
 Alla kuva vianmääritysohjelman menu-valikosta.
 
-![Kuva ohjelmasta](https://github.com/HeikkiGithub/Harjoituskansio/blob/main/kuvat/ohjelma_menu.png)
+![Kuva ohjelman menu-valikosta](https://github.com/HeikkiGithub/Troubleshooting-Win10-network/blob/main/kuvat/ohjelma_menu.png)
 
 
 ### Mihin ongelmaan ohjelma pyrkii etsimään ratkaisua?
