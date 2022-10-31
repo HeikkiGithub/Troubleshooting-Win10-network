@@ -18,10 +18,7 @@ Alla esimerkkikuva ohjelmasta ja sen ulkoasusta. Ohjelma toimii komentoriviltä 
 Ohjelma on kirjoitettu python ohjelmointikieltä käyttäen ja tallennettuna python-tiedostoon (merkitään .py päätteellä). Tällaisten tiedostojen suorittaminen on varsin helppoa, sillä siihen tarvitaan vain Python-ohjelma. Alla pikaiset ohjeet pythonin asennuksesta ja vianmääritysohjelman käynnistämisestä:
 
 1. Jos sinulla ei ole Python-ohjelmistoa asennettuna tietokoneellesi, käy lataamassa siitä käyttöjärjestelmällesi sopiva versio osoitteesta: https://www.python.org/downloads/.
-2. Lataa GitHub-repossani oleva python tiedosto Verkkoyhteyden vianmääritysohjelma Windows 10 PC.py esimerkiksi seuraavasti: valitse 'Copy raw content'-painike -> kopioi sisältö tekstinkäsittelyohjelmaan (esim. muistioon) ja anna sille nimi .py päätteellä -> suorita ohjelma kaksioisklikkaamalla tai kakkospainike -> Avaa sovelluksessa -> Python.
-3. Toinen tapa avata ohjelma on aukaista komentokehoite (CMD) ja toimia seuraavasti: 
-    * Mene cd-komennolla lataamasi python-tiedoston sijaintiin (esimerkiksi juuri ladatut tiedostot ovat tyypillisesti 'Ladatut tiedostot'-kansion alla, jolloin komentokehotteelle kirjoitettaisiin: cd C:\Users\kayttaja\Downloads\).
-    * Käynnistä ohjelma komennolla: python Verkkoyhteyden vianmääritysohjelma Windows 10 PC.py. Tällöin ohjelman pitäisi käynnistyä, mutta mikäli näin ei tapahdu ja saat ilmoituksen: "python is not recognized as an internal or external command", sinun täytyy lisätä ohjelman sijainti (path) ympäristömuuttujiin (environment variables). Tähän löytyy internetistä ohjeet esimerkiksi osoitteesta: https://www.wikihow.com/Use-Windows-Command-Prompt-to-Run-a-Python-File.
+2. Lataa GitHub-repossani oleva python-tiedosto Verkkoyhteyden vianmääritysohjelma Windows 10 PC.py esimerkiksi firefox-selaimessa seuraavasti: valitse 'Raw'-painike -> Ctrl + A tai 'Valitse kaikki'-painikke -> liitä sisältö tekstinkäsittelyohjelmaan (muistioon tms.) ja anna sille nimi .py päätteellä -> suorita ohjelma kaksioisklikkaamalla tai kakkospainike -> Avaa sovelluksessa -> Python.
 
 
 ### Ohjelman käyttöohjeet
